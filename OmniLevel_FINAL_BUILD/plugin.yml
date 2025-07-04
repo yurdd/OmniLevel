@@ -1,0 +1,17 @@
+name: OmniLevel
+version: 1.0
+main: com.omniworld.omnilevel.OmniLevel
+api-version: 1.19
+commands:
+  omni_prestige:
+    description: Open the Prestige Menu
+  prestigeinfo:
+    description: Show your prestige and level
+  omni_help:
+    description: OmniLevel help menu
+  updateleaderboard:
+    description: Admin: update leaderboard hologram
+  givexp:
+    description: Give XP to yourself for testing
+  omni_reload:
+    description: Reload OmniLevel configs and data

@@ -1,0 +1,1 @@
+// Reloads data from config
